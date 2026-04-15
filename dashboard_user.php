@@ -65,7 +65,7 @@ if(!isset($_SESSION['login']) || $_SESSION['role'] != 'user'){
 </div>
 
 <footer>
-    &copy; <?= date('Y') ?>  BY AYOMI ENJANG UTAMI - All Rights Reserved
+    &copy; <?= date('Y') ?>  BY FATAH KHAIRURRIZQY BUDIANSYAH - All Rights Reserved
 </footer>
 
 </body>
